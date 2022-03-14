@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img width="80%" src="./assets/hellofriends.gif" /></a></p>
 
 <!--
 **nikhilhuirem/nikhilhuirem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
