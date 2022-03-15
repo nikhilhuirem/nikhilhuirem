@@ -4,25 +4,24 @@ I'm a self-taught passionate Full Stack Devloper from India 🇮🇳
 
 **About me**
 
-- 💼 Full-Stack Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Currently transisting from Electronics & Communication Engineering
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 Stats Comming Soon
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing, building things & learning new skills.
 
-- 💬 Ask me about anything [here](https://github.com/nikhilhuirem)
+- 🧠 Currently learning backend devlopement with node.js, java for DSA. 
 
-<!--
-**nikhilhuirem/nikhilhuirem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about anything [here](https://twitter.com/nikhilhuirem)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| <a href="https://github.com/nikhilhuirem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilhuirem&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nikhil's gihub stats" /></a> | <a href="https://github.com/nikhilhuirem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilhuirem&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=nikhilhuirem&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+
+<br />
+<br />
