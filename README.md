@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" src="./assets/welcome.gif" /></a></p>
+<p align="center"><img width="50%" src="./assets/tweet.gif" /></a></p>
 
 I'm a self-taught passionate Full Stack Devloper from India 🇮🇳
 
