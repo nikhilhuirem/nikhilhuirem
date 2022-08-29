@@ -4,7 +4,7 @@ I'm a self-taught passionate Full Stack Devloper from India 🇮🇳
 
 **About me**
 
-- 💼 Currently transisting from Electronics & Communication Engineering
+- 💼 Currently persuing Electronics & Communication Engineering at Nit-Manipur
 
 - 📈 Stats Comming Soon
 
