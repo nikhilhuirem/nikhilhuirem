@@ -10,7 +10,9 @@ I'm a self-taught passionate Full Stack Devloper from India 🇮🇳
 
 - ❤️ I love writing, building things & learning new skills.
 
-- 🧠 Currently learning backend devlopement with node.js, java for DSA. 
+- 🧠 Currently doing full stack developement using Nextjs, prisma, planetScale, React.
+  
+-  Also doing AI and ML
 
 - 💬 Ask me about anything [here](https://twitter.com/nikhilhuirem)
 
