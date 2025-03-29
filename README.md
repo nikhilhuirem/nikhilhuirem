@@ -1,20 +1,5 @@
 <p align="center"><img width="50%" src="./assets/tweet.gif" /></a></p>
 
-I'm a self-taught passionate Full Stack Devloper from India 🇮🇳
-
-**About me**
-
-- 💼 Currently persuing Electronics & Communication Engineering at Nit-Manipur
-
-- 📈 Stats Comming Soon
-
-- ❤️ I love writing, building things & learning new skills.
-
-- 🧠 Currently doing full stack developement using Nextjs, prisma, planetScale, React.
-  
--  Also doing AI and ML
-
-- 💬 Ask me about anything [here](https://twitter.com/nikhilhuirem)
 
 
 
